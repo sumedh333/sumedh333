@@ -11,7 +11,7 @@ Tools: SQL, Python, Pandas, Matplotlib, Power BI
 Analyzed product catalog, pricing, discounts, and customer ratings to identify assortment gaps, pricing patterns, and category-level performance.  
 Tools: Python, Pandas, Matplotlib, Power BI
 
-🔹 Hotel Booking Analytics  
+🔹 Hotel Booking Analysis  
 Performed exploratory analysis and built an interactive Tableau dashboard to understand booking behavior, cancellations, customer segments, and seasonal demand patterns.  
 Tools: Python, Pandas, Tableau
 
