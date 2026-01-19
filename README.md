@@ -6,19 +6,19 @@ Data Analyst with a strong focus on **SQL, Python, Power BI, Tableau, and Excel*
 
 ## 📊 Projects
 
-### Retail Banking Analytics
+### [Retail Banking Analytics – Customer, Loan & Credit Insights](https://github.com/sumedh333/Retail-Banking-Analytics)
 Built a Power BI solution to analyze customer profiles, transactions, loans, credit cards, and service feedback with a focus on **KPIs and operational insights**.  
 **Tools:** SQL, Python, Pandas, Matplotlib, Power BI
 
 ---
 
-### BigBasket E-Commerce Analytics
+### [BigBasket E-Commerce Analytics – Product Assortment & Brand Insights](https://github.com/sumedh333/BigBasket-E-Commerce-Analytics)
 Analyzed product catalog, pricing, discounts, and customer ratings to identify **assortment gaps, pricing patterns, and category-level performance**.  
 **Tools:** Python, Pandas, Matplotlib, Power BI
 
 ---
 
-### Hotel Booking Analysis
+### [Hotel Booking Analysis – Guest Behavior & Booking Trends](https://github.com/sumedh333/Hotel-Booking-Analysis)
 Performed exploratory analysis and built an interactive Tableau dashboard to understand **booking behavior, cancellations, customer segments, and seasonal demand patterns**.  
 **Tools:** Python, Pandas, Tableau
 
